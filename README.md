@@ -14,7 +14,7 @@
 
 # 订阅
 
-https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/uzAio.json
+https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/uzVideo-extensions/refs/heads/main/uzAio.json
 
 # 添加方式
 
